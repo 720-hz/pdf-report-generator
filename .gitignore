@@ -1,0 +1,8 @@
+node_modules/
+shop.db
+shop.db-journal
+shop.db-wal
+shop.db-shm
+reports/
+*.log
+.env
